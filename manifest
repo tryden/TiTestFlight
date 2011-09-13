@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2011 by Your Company
+
+
+# these should not be edited
+name: titestflight
+moduleid: co.saiten.ti.testflight
+guid: 8beda686-5822-408e-873d-a111c6b94360
+platform: iphone
+minsdk: 1.7.2
